@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-### Full-stack developer shaping up
+### Full-stack developer
 
 Studying computer engineering at [Instituto Mauá de Tecnologia](https://maua.br)
 
