@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-### Full-stack developer
+### Full-stack Web Developer
 
 Studying computer engineering at [Instituto Mauá de Tecnologia](https://maua.br)
 
